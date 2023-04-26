@@ -1,5 +1,8 @@
 # 💫 About Me:
+¡Hola! ¿Que tal?
+Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, donde acumulé mas de 400 horas de programacion constantes en tecnologias que podes ver mas abajo.
 👯 Colabore con la inicativa Promanitas como Desarrollador Front-End<br>
+
 
 
 ## 🌐 Socials:
