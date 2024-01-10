@@ -2,7 +2,7 @@
 
 <br>
 
-<em> Hola 👋</em>
+# Hola! 👋
 
 Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, donde acumulé mas de 400 horas de programacion constantes en tecnologias que podes ver mas abajo.
 <br>
