@@ -1,4 +1,5 @@
-![Fondo very peri prueba](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
+![Socalo superior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
+
 <br>
 
 
@@ -22,9 +23,9 @@ Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, dond
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srezequielr	&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Srezequielr	&icon=0&color=0)](https://visitcount.itsvg.in)
-<br>
-![Fondo very peri prueba](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
 
+<br>
+
+![Socalo inferior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/19331f5d-7985-4417-b971-37a4ad880b11)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
