@@ -2,9 +2,10 @@
 <br>
 
 <div align="center">
-<h1>
-  Hola! Que tal? 👋
-</h1> 
+![Sticker perfil](https://github.com/Srezequielr/Srezequielr/assets/105263588/c8871b14-fc1f-42eb-974e-35656fc20672)
+
+##  Hola! Que tal? 👋
+
 Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 🖌️
 <br>
 👤 Desarrolle de manera Full Stack la App Comida+ que es el proyecto individual que me asignaronen Henry 👤<br>
@@ -12,7 +13,7 @@ Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sr.Ezequiel.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-riera-60b13a239/) 
 
 # 💻 Tech Stack:
