@@ -1,5 +1,7 @@
 ![Fondo very peri prueba](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
 <br>
+
+
 # 💫 About Me:
 ¡Hola! ¿Que tal?
 Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, donde acumulé mas de 400 horas de programacion constantes en tecnologias que podes ver mas abajo.
@@ -21,5 +23,8 @@ Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, dond
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Srezequielr	&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+![Fondo very peri prueba](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
