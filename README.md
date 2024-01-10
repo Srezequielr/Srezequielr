@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-![Sticker perfil](https://github.com/Srezequielr/Srezequielr/assets/105263588/c8871b14-fc1f-42eb-974e-35656fc20672)
+![Perfil](https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d)
 
 ##  Hola! Que tal? 👋
 
