@@ -5,9 +5,6 @@
 <h1>
   Hola! Que tal? 👋
 </h1> 
-</div>
-
-
 Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 🖌️
 <br>
 👤 Desarrolle de manera Full Stack la App Comida+ que es el proyecto individual que me asignaronen Henry 👤<br>
@@ -26,9 +23,10 @@ Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srezequielr	&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+</div>
+
+
 
 <br>
-
 ![Socalo inferior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/19331f5d-7985-4417-b971-37a4ad880b11)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
