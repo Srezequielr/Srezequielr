@@ -1,4 +1,4 @@
-![Socalo superior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/5ebd49e6-cec9-49dc-b2dd-b3804c13e301)
+![Socalo superior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/5bc0085b-0fe3-4fa8-b4ba-66438a59f61b)
 
 <br>
 
