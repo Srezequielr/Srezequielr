@@ -1,10 +1,13 @@
 ![Socalo superior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/5bc0085b-0fe3-4fa8-b4ba-66438a59f61b)
-
 <br>
 
-# Hola! 👋
+<div align="center">
+# Hola! Que tal? 👋
+  
+</div>
 
-Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, donde acumulé mas de 400 horas de programacion constantes en tecnologias que podes ver mas abajo.
+
+Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 🖌️
 <br>
 👤 Desarrolle de manera Full Stack la App Comida+ que es el proyecto individual que me asignaronen Henry 👤<br>
 👯 Colabore con la inicativa Promanitas como Desarrollador Front-End 👯<br>
