@@ -27,5 +27,6 @@ Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 
 
 
 <br>
-![Socalo inferior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/19331f5d-7985-4417-b971-37a4ad880b11)
+![Fondo very peri prueba abajo](https://github.com/Srezequielr/Srezequielr/assets/105263588/abe0ba69-e85b-4112-8ca5-1cf20b8b3742)
+
 
