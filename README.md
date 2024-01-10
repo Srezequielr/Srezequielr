@@ -6,6 +6,7 @@ Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, dond
 👯 Colabore con la inicativa Promanitas como Desarrollador Front-End 👯<br>
 
 
+![png-transparent-css-logo-icon](https://github.com/Srezequielr/Srezequielr/assets/105263588/4f61b69c-433c-40bc-ba00-bd407c62e95e)
 
 
 ## 🌐 Socials:
