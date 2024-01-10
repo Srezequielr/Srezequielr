@@ -2,8 +2,9 @@
 <br>
 
 <div align="center">
-# Hola! Que tal? 👋
-  
+<h1>
+  Hola! Que tal? 👋
+</h1> 
 </div>
 
 
