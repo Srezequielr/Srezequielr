@@ -2,9 +2,8 @@
 
 <br>
 
+<em> Hola 👋</em>
 
-# 💫 About Me:
-¡Hola! ¿Que tal?
 Soy Julian Riera, desarrollador web Full Stack. ¿De donde vengo? De Henry, donde acumulé mas de 400 horas de programacion constantes en tecnologias que podes ver mas abajo.
 <br>
 👤 Desarrolle de manera Full Stack la App Comida+ que es el proyecto individual que me asignaronen Henry 👤<br>
