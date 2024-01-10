@@ -1,8 +1,10 @@
 ![Socalo superior Very Peri](https://github.com/Srezequielr/Srezequielr/assets/105263588/5bc0085b-0fe3-4fa8-b4ba-66438a59f61b)
 <br>
 
+
 <div align="center">
-![Perfil](https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d)
+  
+<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d" alt="Ejemplo de imagen" width=300px>
 
 ##  Hola! Que tal? 👋
 
