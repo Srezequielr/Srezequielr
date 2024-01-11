@@ -1,13 +1,9 @@
-<div align="center">
-<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/5bc0085b-0fe3-4fa8-b4ba-66438a59f61b" alt="Socalo Superior"
-  
-<br>
-
-<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d" alt="Foto de perfil" width=300px>
+<div align="center">  
+<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d" alt="Foto de perfil" width=250px>
 
 ##  Hola! Que tal? 👋
 
-Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 🖌️
+Soy Julian Riera, <b>Desarrollador Full Stack</b>. Me gusta la tecnologia y el diseño 🖌️
 <br>
 
 
