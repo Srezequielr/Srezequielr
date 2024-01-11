@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/72040c18-6531-4b41-9d8e-70712dc3f09d" alt="Foto de perfil" width=250px>
+<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/3def2a9a-687a-4ce0-9769-e08fd56f176d" alt="Foto de perfil" width=250px>
 
 ##  Hola! Que tal? 👋
 
