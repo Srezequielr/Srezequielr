@@ -9,8 +9,7 @@
 
 Soy Julian Riera, Desarrollador Full Stack. Me gusta la tecnologia y el diseño 🖌️
 <br>
-👤 Desarrolle de manera Full Stack la App Comida+ que es el proyecto individual que me asignaronen Henry 👤<br>
-👯 Colabore con la inicativa Promanitas como Desarrollador Front-End 👯<br>
+
 
 
 
