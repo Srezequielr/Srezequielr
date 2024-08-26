@@ -1,5 +1,6 @@
 <div align="center">  
-![Foto Final very peri](https://github.com/user-attachments/assets/19444a58-0712-4152-8d94-fa4ad13a9754)
+<img src="https://github.com/user-attachments/assets/19444a58-0712-4152-8d94-fa4ad13a9754">
+
 
 
 ##  Hola! Que tal? 👋
