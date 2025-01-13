@@ -1,25 +1,27 @@
-<div align="center">  
-<img src="https://github.com/user-attachments/assets/19444a58-0712-4152-8d94-fa4ad13a9754" alt="Foto de perfil" width=300px>
-
-
-
-##  Hola! Que tal? 👋
-
-Soy Julian Riera, <b>Desarrollador Full Stack</b>. Me gusta la tecnologia y el diseño 🖌️
-<br>
 
 
 
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sr.Ezequiel.r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianriera/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<br>
-<img src="https://github.com/Srezequielr/Srezequielr/assets/105263588/abe0ba69-e85b-4112-8ca5-1cf20b8b3742" alt="Socalo inferior"
+<div align=center>
+<img width=700 align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1000&color=FFFFFF&background=1D202C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Julian+Riera;Full+Stack+Developer;I+love+programming+%E2%99%A5%EF%B8%8F">
 </div>
+
+<h1> What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+
+
+
+<img align=right src="https://github.com/user-attachments/assets/933000a1-016f-4f68-8627-2be36c0550a8" alt="Foto de perfil" width=300px>  
+Hi! I'm currently studying web development at the <a target="blank" href="https://www.unsj.edu.ar/">National University of San Juan</a>, where I'm learning how to program in a robust and efficient way. Also, I studied at Henry Bootcamp where I worked with the tools most in-demand in the market. 
+<br>
+My hard skills 
+
+<br>
+<br>
+<hr width="68%" >
+
+
+
 
 
 
