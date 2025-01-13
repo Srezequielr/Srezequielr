@@ -1,8 +1,8 @@
 <div align=center>
-<img width=700 align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1000&color=FFFFFF&background=1D202C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Julian+Riera;Full+Stack+Developer;I+love+programming+%E2%99%A5%EF%B8%8F">
+<img width=80% align=center src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&pause=1000&color=FFFFFF&background=1D202C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Julian+Riera;Full+Stack+Developer;I+love+programming+%E2%99%A5%EF%B8%8F">
 </div>
 
-<h1> What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <br>
 
 
