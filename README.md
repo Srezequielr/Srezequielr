@@ -7,7 +7,7 @@
 
 
 <img align=right src="https://github.com/user-attachments/assets/933000a1-016f-4f68-8627-2be36c0550a8" alt="Foto de perfil" width=30%>  
-Hi! I'm currently studying web development at the <a target="blank" href="https://www.unsj.edu.ar/">National University of San Juan</a>, where I'm learning how to program in a robust and efficient way. Also, I studied at <a target="blank" href="https://www.soyhenry.com/" >Henry Bootcamp</a> where I worked with the tools most in-demand in the market. 
+Hi! I'm currently studying web development at the <a target="blank" href="https://www.unsj.edu.ar/">National University of San Juan</a> in Argentina, where I'm learning how to program in a robust and efficient way. Also, I studied at <a target="blank" href="https://www.soyhenry.com/" >Henry Bootcamp</a> where I worked with the tools most in-demand in the market. 
 <br>
 
 ### My hard Skills
