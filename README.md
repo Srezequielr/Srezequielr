@@ -23,9 +23,14 @@ Hi! I'm currently studying web development at the <a target="blank" href="https:
 <img src="https://github.com/user-attachments/assets/dc08a3cd-4f3b-4c4f-bad9-34d2ba68ee9d" width=7%> 
 <img src="https://github.com/user-attachments/assets/22272714-c3a5-43db-b834-bff74fccdb80" width=7%> 
 
-
+<br>
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/95c4eeb8-4a69-443a-a48b-fc0c49c36e8a" width=100%> 
  
-<hr width="60%" >
+
+
+
 
 
 
